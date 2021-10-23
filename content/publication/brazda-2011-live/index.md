@@ -16,7 +16,7 @@ tags: []
 categories: []
 date: '2011-01-01'
 lastmod: 2021-10-22T18:33:37+02:00
-featured: true
+featured: false
 draft: false
 url_pdf: https://jcs.biologists.org/content/124/21/3631
 
@@ -24,7 +24,7 @@ url_pdf: https://jcs.biologists.org/content/124/21/3631
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Interpretations of the different states and populations of RAR as detected by FCS. (see publication)'
   focal_point: ''
   preview_only: false
 
