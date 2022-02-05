@@ -16,7 +16,24 @@ authors:
 - Jens Puschhof
 - Maj-Britt Buchholz
 - Mario Barrera Román
-- ' others'
+- Inez Johanna
+- Angelo D. Meringa
+- Domenico Fasci
+- Maarten H. Geurts
+- Hendrikus C.R. Ariese
+- Esmée J. van Vliet
+- Ravian L. van Ineveld
+- Effrosyni Karaiskaki
+- Oded Kopper
+- Yotam E. Bar-Ephraim
+- Kai Kretzschmar
+- Alexander M.M. Eggermont
+- Ellen J. Wehrens
+- Henk G. Stunnenberg
+- Hans Clevers
+- Jürgen Kuball
+- Zsolt Sebestyen
+- Anne C. Rios
 tags: []
 categories: []
 date: '2021-01-01'
