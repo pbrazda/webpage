@@ -67,10 +67,10 @@ email: ""
 highlight_name: false
 ---
 
-I am a biotechnologist by training with more than 15 years of experience in molecular biological research. I have been involved in projects on both prokaryotic, mammalian and human systems in various international research groups.  
+I am a biotechnologist by training with experience in molecular biological research. I have been involved in projects on both prokaryotic, mammalian and human systems in various international research groups.  
 
 During my PhD training, I applied advanced **biophysical** and **live cell microscopy** methods to investigate the dynamics of nuclear receptors during transcription regulation in eukaryotes.   
 
 Joining the *TU Delft* laboratory of prof. Nynke Dekker as a postdoctoral researcher was a continuation of this path in many ways. We were focusing the dynamics of the **replication machinery** in live bacteria.  *'Focusing'* is not an empty term here, as we applied cutting-edge **super-resolution** live cell microscopy to detect and follow the movement of single molecules. I initiated projects on helicase action in transcription-replication encounters.  
 
-Being trained in a lab with intense involvement in genomic research (from the nuclear receptor perspective) I became fascinated with large scale genomic methods; their potential in medicine and their rate of progress. Hence, I took the exciting opportunity to join the research group of prof. Henk Stunnenberg at *Radboud Univeristy* and learn/apply **single cell transcriptomic profiling**, a thriving field of molecular biology. The project we initiated on **Pheochromocytoma** (a rare adrenal tumor) is now being continued, along with new endeavours on pediatric **Acute Myeloid Leukemia (AML)** at the *Prinses Máxima Center for Pediatric Oncology*, the new home of the lab.  
+Being trained in a lab with intense involvement in genomic research (from the nuclear receptor perspective) I became fascinated with large scale genomic methods; their potential in medicine and their rate of progress. Hence, I took the exciting opportunity to join the research group of prof. Henk Stunnenberg at *Radboud University* and learn/apply **single cell transcriptomic profiling**, a thriving field of molecular biology. The project we initiated on **Pheochromocytoma** (a rare adrenal tumor) is now being continued, along with new endeavours on pediatric **Acute Myeloid Leukemia (AML)** at the *Prinses Máxima Center for Pediatric Oncology*, the new home of the lab.  
